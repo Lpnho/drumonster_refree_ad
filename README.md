@@ -7,6 +7,7 @@
     dotnet add package Grpc.Net.Client
     dotnet add package Grpc.Tools
 ### Adicionar ao csproj:
+```
   <ItemGroup>
     <Protobuf Include="juiz\protobuf\vssref_common.proto" />
  </ItemGroup>  
